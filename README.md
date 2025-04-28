@@ -1,3 +1,5 @@
+# Tableau Analytics
+
 Welcome to my Tableau dashboard repository. This repository showcases my hands-on work in building insightful dashboards across domains like:
 
 ##  🌐 Cloud Security Alerts
