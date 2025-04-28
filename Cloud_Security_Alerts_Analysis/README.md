@@ -23,7 +23,7 @@
 
 | Chart Type                             |Description                  |
 |----------------------------------------|------------------------------|
-|stacked bar chart                       | Top t threats by cloud       |
+|Stacked bar chart                       | Top threats by cloud       |
 |Map                                     | count of alerts by city|
 |Incident priority                       | Priority wise ticket count|
 |Treemap                                 | Affected users by threat  |
