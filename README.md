@@ -11,4 +11,6 @@ To clean, analyze and visulaize hotel bookings, cancelled vs non-cancelled,regio
 ## 🧑‍🏫 HR Attrition Dashboard
 To showcase attriton percentage in various departments and number of employees working.
 
+## ✈️ Flight-Tracking-Analysis
+This dashboard provides a overview of flight activity across the U.S., highlighting trends by year, top origin/destination airports, and aircraft types.
  
