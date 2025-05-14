@@ -1,2 +1,37 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Power BI files to ignore
+*.pbix~          # Temp or backup PBIX files
+*.tmp
+*.bak
+
+# Ignore Tableau cache and extract files
+*.hyper
+*.tde
+*.tds
+*.twbx           # TODO
+
+# OS-specific junk
+.DS_Store        # macOS
+Thumbs.db        # Windows
+desktop.ini
+
+# VS Code workspace and cache files
+.vscode/
+*.code-workspace
+
+# Python notebooks, if used
+.ipynb_checkpoints/
+
+# Node/npm files (if your project has frontend tooling)
+node_modules/
+dist/
+build/
+
+# Log files
+*.log
+*.tmp
+
+# Excel backup/hidden files
+~$*.xlsx
